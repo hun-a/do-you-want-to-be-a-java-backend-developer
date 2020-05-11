@@ -12,3 +12,4 @@
 
 ## 튜토리얼
 1. [Install](./01.Install.md)
+1. [New builds](./02.New_builds.md)
