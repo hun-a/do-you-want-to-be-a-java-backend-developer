@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.huna.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-15T03:28:11" hostname="2018080057.local" time="0.017">
+  <properties/>
+  <testcase name="appHasAGreeting()" classname="io.huna.AppTest" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

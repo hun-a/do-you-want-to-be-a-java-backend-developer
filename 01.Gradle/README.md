@@ -15,3 +15,4 @@
 1. [New builds](./02.New_builds.md)
 1. [Task - copy](./03.copy_task.md)
 1. [Apply a plugin: base](./04.apply_plugin.md)
+1. [Building Java Application](./05.build_java_app.md)
