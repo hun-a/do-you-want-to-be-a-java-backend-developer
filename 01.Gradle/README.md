@@ -16,3 +16,6 @@
 1. [Task - copy](./03.copy_task.md)
 1. [Apply a plugin: base](./04.apply_plugin.md)
 1. [Building Java Application](./05.build_java_app.md)
+1. [Buillding Spring Boot2 Application](https://guides.gradle.org/building-spring-boot-2-projects-with-gradle/)
+1. [Build Lifecycle](https://docs.gradle.org/current/userguide/build_lifecycle.html)
+1. [Multi Project](https://docs.gradle.org/current/userguide/multi_project_builds.html)
