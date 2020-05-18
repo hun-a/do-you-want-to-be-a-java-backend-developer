@@ -17,5 +17,5 @@
 1. [Apply a plugin: base](./04.apply_plugin.md)
 1. [Building Java Application](./05.build_java_app.md)
 1. [Buillding Spring Boot2 Application](./06.build_spring_boot2.md)
-1. [Multi Project](./07.multi_project.md)
+1. [Multi Project](./07.multi_project.md) - DRAFT
 1. [Build Lifecycle](https://docs.gradle.org/current/userguide/build_lifecycle.html) (TODO)
